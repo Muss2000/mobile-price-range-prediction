@@ -1,7 +1,8 @@
 # Mobile Price Range Prediction 
+***
 
 This project aims to predict the price range of mobile phones using various machine learning models. The models evaluated include Decision Tree, Random Forest, AdaBoost with Decision Tree, Logistic Regression, and Support Vector Machine (SVM).
-***
+
 
 ## Datase-
 
