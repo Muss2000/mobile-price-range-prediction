@@ -1,8 +1,8 @@
-Mobile Price Range Prediction-
+# Mobile Price Range Prediction-
 
 This project aims to predict the price range of mobile phones using various machine learning models. The models evaluated include Decision Tree, Random Forest, AdaBoost with Decision Tree, Logistic Regression, and Support Vector Machine (SVM).
 
-Dataset-
+## Dataset-
 
 The target variable is the price range, which is classified into four categories. The other features are mentioned below
 
@@ -49,12 +49,12 @@ touch_screen: Has touch screen or not
 wifi: Has wifi or not
 
 
-Use Cases-
+## Use Cases-
 
 This kind of prediction will help companies estimate the prices of mobiles, enabling them to stay competitive against other mobile manufacturers. Additionally, it will be useful for consumers to verify that they are paying the best possible price for a mobile. 
 
 
-Applied Models-
+## Applied Models-
 
 Logistic Regression
 Decision tree
