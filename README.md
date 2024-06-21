@@ -6,9 +6,9 @@ This project aims to predict the price range of mobile phones using various mach
 
 The target variable is the price range, which is classified into four categories. The other features are mentioned below
 
-id: ID
+**id:** ID
 
-battery_power: Total energy a battery can store in one time measured in mAh
+**battery_power:** Total energy a battery can store in one time measured in mAh
 
 blue: Has bluetooth or not
 
